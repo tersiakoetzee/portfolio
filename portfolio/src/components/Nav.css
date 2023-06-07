@@ -1,0 +1,13 @@
+.NavBar{
+    background-color: rgb(33, 33, 93);
+    padding: 20px;
+}
+.Navlink{
+    color: aqua;
+    padding: 10px;
+   /* font-family: cursive; */
+}
+.Logo{
+ justify-content: left;
+ padding-right: 350px;
+}
